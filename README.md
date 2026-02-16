@@ -67,3 +67,41 @@ To see how you're feeling about these "thresholds," let's look at a common workp
 
 **Imagine a student is consistently 30 minutes late to their hospital placements but has perfect grades. Why do you think a medical school might treat this as a Fitness to Practise concern rather than just a minor attendance issue?**
 
+
+We're going to break down the **Student Fitness to Practise (FtP)** process into two clear phases: the **Investigation** (where we find out what happened) and the **Hearing** (where a formal decision is made).
+
+As a Governance Coordinator, you are the "engine room" of this process, ensuring every step follows the school's rules so that the final decision is legally sound. ⚖️
+
+### Phase 1: From Concern to Investigation 🔍
+
+When a concern is raised—whether it's about a student's health, honesty, or clinical behavior—it doesn't go straight to a hearing. It follows a structured path:
+
+1. **Initial Triage:** A senior member of the school (often the "Lead for Professionalism") reviews the concern. If it’s minor, it might be handled with a simple chat. If it's serious, it moves forward. 🚦
+2. **The Formal Investigation:** An investigator is appointed. Their job is to gather evidence: witness statements, emails, or medical reports.
+3. **The Student’s Response:** The student is told exactly what the concern is and is given a chance to provide their side of the story in writing. 📝
+4. **The Decision Point:** Once the investigation is done, the school decides:
+* **No further action:** The concern wasn't substantiated.
+* **Low-level warning:** The student made a mistake but doesn't need a formal hearing.
+* **Referral to FtP Hearing:** The concern is serious enough that the student’s right to stay in medical school is at stake.
+
+
+
+---
+
+### Phase 2: The Hearing (The Formal Committee) 🏛️
+
+If a case is referred to a hearing, it becomes a quasi-judicial process. This is the most formal part of your role.
+
+| Step | What Happens? | Your Key Task 📋 |
+| --- | --- | --- |
+| **1. The Bundle** | All evidence (evidence from the investigator and the student) is compiled into a single document. | Ensuring all parties have the "bundle" at least 10–14 days before the hearing. |
+| **2. Panel Selection** | A committee is formed, usually including a doctor, a layperson (non-medic), and a senior academic. | Checking that no panel member knows the student personally (Conflict of Interest). |
+| **3. The Hearing** | The school presents the case; the student (often with a representative) presents their defense. Witnesses may be called. | Taking detailed minutes and ensuring the "Order of Proceedings" is followed. |
+| **4. Deliberation** | The panel goes into a private room to decide if the student's fitness to practise is "impaired." | Providing the panel with the relevant **Code of Practice** for reference. |
+| **5. The Outcome** | The panel issues a sanction (e.g., a warning, suspension, or expulsion). | Drafting the formal outcome letter to the student. |
+
+### Developing Your Expertise
+
+Since you'll be managing these steps, let's think about the **Investigation** phase.
+
+If an investigator gathers a very critical email about a student, but the student hasn't seen it yet, why is it vital for you to make sure that email is included in the "bundle" before the hearing begins?
