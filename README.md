@@ -105,3 +105,84 @@ If a case is referred to a hearing, it becomes a quasi-judicial process. This is
 Since you'll be managing these steps, let's think about the **Investigation** phase.
 
 If an investigator gathers a very critical email about a student, but the student hasn't seen it yet, why is it vital for you to make sure that email is included in the "bundle" before the hearing begins?
+
+
+## Case Management Group (CMG)
+
+In a UK medical school, the **Case Management Group (CMG)** acts as the "sorting office" or triage point for concerns about a student's professionalism or health. It sits between the initial report and a formal Fitness to Practise (FtP) hearing. 📋
+
+### Purpose and Function 🎯
+
+The primary goal of the CMG is to decide if a concern is serious enough to warrant a formal investigation or if it can be handled through support and guidance. This ensures that only the most serious cases reach a full hearing, while minor issues are resolved quickly.
+
+* **Triage:** Reviewing new concerns to determine the "threshold" of risk. 🚦
+* **Support:** Recommending health or academic support if the issue is a "Fitness to Study" matter rather than a "Conduct" matter. 🏥
+* **Monitoring:** Keeping an eye on students with existing low-level warnings to ensure they are improving. 📈
+
+### Membership and Structure 👥
+
+The CMG is usually a small, expert group. Members often include:
+
+* **Chair:** A senior academic, such as the Head of Medical Education.
+* **Clinical Leads:** Experienced doctors who understand professional standards in hospitals. 🩺
+* **Professional Services:** Governance staff (like your role!) who ensure procedural fairness.
+* **Student Support Representative:** To ensure the student's wellbeing is considered.
+
+### Logistics and Framework 🗓️
+
+* **Frequency:** They typically meet **monthly**, though they may meet more often if urgent patient safety concerns arise.
+* **Terms of Reference (ToR):** Every CMG has a formal ToR. This is a legal document that defines their powers, who must be present for a meeting to be valid (quorum), and how they make decisions.
+
+Let’s explore this further. Which area should we look at next?
+
+1. **The Triage Process:** How the group actually decides if a student is "safe" or "unsafe" based on specific evidence.
+2. **The Governance Coordinator's Role:** Your specific tasks during a CMG meeting, from preparing papers to drafting "Letters of Concern."
+3. **Terms of Reference Deep Dive:** Looking at the specific rules that prevent the CMG from overstepping its power.
+
+
+
+## Triage process and Case Management Group
+
+To help you excel in your new role, let’s break down the mechanics of the **Case Management Group (CMG)**. You can think of the CMG as the "engine" of the school’s regulatory framework, while you are the "pilot" ensuring it stays on the right track. 🩺
+
+### 1. The Triage Process: The "Traffic Light" System 🚦
+
+The triage process is where the CMG assesses the **risk** and **severity** of a concern. They usually categorize cases into three pathways:
+
+* **Green (Low Risk):** Issues like a single missed deadline or a minor lapse in dress code. 🟢
+* *Outcome:* An informal "chat" with a tutor or a note on the student's file.
+
+
+* **Amber (Moderate Risk):** Repeated unprofessionalism, health issues affecting study, or plagiarism. 🟡
+* *Outcome:* Formal investigation or a "Fitness to Study" support plan.
+
+
+* **Red (High Risk):** Patient safety concerns, criminal acts, or serious dishonesty (e.g., falsifying signatures). 🔴
+* *Outcome:* Immediate referral to a full **Fitness to Practise Hearing** and potentially an interim suspension from clinical placements.
+
+
+
+### 2. Your Role: The Governance Coordinator (The Process Guardian) 🛡️
+
+Your role is not to judge the student, but to ensure the **process** is legally and procedurally bulletproof. Your key tasks include:
+
+* **Case Preparation:** Compiling "the bundle" (evidence) for the group to review. 📁
+* **Regulatory Advice:** Reminding the group of the **Code of Practice** if they suggest a sanction that isn't allowed by the rules. 📖
+* **Outcome Management:** Drafting the formal letters to students. These must be precise, as they are the first thing a lawyer looks at if a student appeals. ✉️
+* **Action Tracking:** Ensuring that if the CMG orders a student to see Occupational Health, it actually happens. 📅
+
+### 3. Terms of Reference (ToR): The Rulebook 📜
+
+The ToR is the "contract" that says what the CMG can and cannot do. A typical ToR includes:
+
+* **Purpose:** To protect the public and uphold professional standards.
+* **Authority:** It specifies that the CMG can refer a student to a hearing but usually *cannot* expel a student themselves (only a full hearing panel can do that).
+* **Quorum:** The minimum number (and type) of people who must be present for the meeting to be valid (e.g., "At least three members, including one clinician"). 👥
+* **Confidentiality:** Strict rules on how student data is handled under GDPR. 🔒
+
+---
+
+**A Practical Challenge:**
+Imagine the CMG meets, but the **Clinical Lead** (the doctor) is stuck in surgery and can't attend. According to the **Terms of Reference**, the meeting must have a clinician present to be "quorate."
+
+**As the Governance Coordinator, what do you think is the correct course of action to protect the school from a legal challenge later on?**
