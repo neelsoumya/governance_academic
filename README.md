@@ -186,3 +186,53 @@ The ToR is the "contract" that says what the CMG can and cannot do. A typical To
 Imagine the CMG meets, but the **Clinical Lead** (the doctor) is stuck in surgery and can't attend. According to the **Terms of Reference**, the meeting must have a clinician present to be "quorate."
 
 **As the Governance Coordinator, what do you think is the correct course of action to protect the school from a legal challenge later on?**
+
+
+## Fitness to Study (FTS)
+
+The **Fitness to Study (FtS)** process is the supportive framework used when a student’s health or wellbeing starts to interfere with their ability to progress in medical school. Unlike **Fitness to Practise**, which focuses on safety and conduct, FtS focuses on whether the student is well enough to be in school at all. 🏥
+
+I'll help you navigate these stages and roles, and I’ll ask guiding questions as we go to help you build your governance "muscle."
+
+### The Stages of Fitness to Study 🪜
+
+The process is usually progressive, moving from informal support to formal oversight.
+
+1. **Stage 1: Informal/Initial Concern** – A tutor or staff member notices a student is struggling (e.g., missing lectures due to anxiety). They have a supportive meeting to agree on a plan.
+2. **Stage 2: Formal Support Meeting** – If Stage 1 doesn't work, a more formal meeting occurs. An **Action Plan** is created with specific goals (e.g., "Student will attend 80% of clinical rotations and engage with counseling"). 📝
+3. **Stage 3: The Fitness to Study Panel** – This is the highest level. It is used when there are serious concerns about the student's health or if they haven't met the goals of Stage 2. This panel decides if a student needs a mandatory **Leave of Absence** or if they can continue with heavy support.
+
+---
+
+### The Panel: Who is in the Room? 👥
+
+| Role | Who are they? | Why are they there? |
+| --- | --- | --- |
+| **The Chair** | A very senior academic (e.g., Dean of Education). | To lead the meeting and ensure the student is treated fairly. |
+| **Medical Lead** | A doctor or clinician from the school. | To understand the clinical impact of the student's health. 🩺 |
+| **Independent Member** | An academic from a different department. | To provide an objective, outside perspective. |
+| **The Secretary** | **This is you!** (Governance Coordinator). | To ensure the school follows its own rules (The Code of Practice). |
+
+---
+
+### The "Power Couple": Chair vs. Secretary 🏛️
+
+You and the Chair work as a team to keep the hearing legal and fair.
+
+* **The Function of the Chair:** They are the "Judge." They guide the discussion, ask the student questions, and facilitate the panel’s final decision. They ensure the meeting doesn't become "mean" or punitive, as FtS should be supportive.
+* **The Function of the Secretary (You):** You are the "Guardian of the Rules." Before the meeting, you prepare the **evidence bundle**. During the meeting, you take the official minutes. Afterward, you draft the **Outcome Letter**. Crucially, if the Chair suggests an action that isn't allowed by the Code of Practice, you are the one who politely points out the rule. 🛡️
+
+### Learning Resources for You 📚
+
+To get a feel for the "gold standard" of these processes, I recommend checking these out:
+
+1. **The OIA (Office of the Independent Adjudicator) Good Practice Framework:** They are the "Ombudsman" for students. Look for their section on "Fitness to Study."
+2. **GMC Guidance (General Medical Council):** Search for "Welcomed and Valued." It's the UK's main guide on supporting medical students with disabilities and long-term health conditions.
+
+---
+
+To help you get comfortable with your specific role, which of these tasks would you like to "practice" first?
+
+1. **Drafting an Outcome Letter:** Learning how to write a decision that is clear, firm, but supportive.
+2. **Minute Taking:** How to capture a complex 2-hour discussion into a 2-page summary of facts.
+3. **The "Code of Practice" Challenge:** Identifying when a panel is accidentally breaking a rule.
