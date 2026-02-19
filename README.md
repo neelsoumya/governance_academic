@@ -236,3 +236,133 @@ To help you get comfortable with your specific role, which of these tasks would 
 1. **Drafting an Outcome Letter:** Learning how to write a decision that is clear, firm, but supportive.
 2. **Minute Taking:** How to capture a complex 2-hour discussion into a 2-page summary of facts.
 3. **The "Code of Practice" Challenge:** Identifying when a panel is accidentally breaking a rule.
+
+
+## Academic misconduct
+
+Academic misconduct in a medical school is treated with extra gravity because it often intersects with **Probity**—the professional requirement for doctors to be honest and trustworthy. If a student cheats on an essay, a regulator like the GMC might ask: *"If they lie about a bibliography, will they lie about a patient's blood pressure?"* 🩺
+
+Here is a breakdown of how these cases are identified, assessed, and managed.
+
+---
+
+### 1. Forms of Academic Misconduct
+
+In a UK medical school, misconduct generally falls into these categories:
+
+| Type | Definition |
+| --- | --- |
+| **Plagiarism** | Presenting someone else's work or ideas as your own (includes "Self-Plagiarism"). |
+| **Collusion** | Unauthorised collaboration—working with another student on a task meant to be individual. |
+| **Falsification/Fabrication** | **The "Red Zone":** Making up data, clinical signatures, or research results. This is often an automatic FtP referral. |
+| **Contract Cheating** | Paying a third party (like an "essay mill") or using AI to generate work and passing it off as your own. |
+| **Examination Offences** | Bringing unauthorized materials (phones, notes) into an exam or impersonating another student. |
+
+---
+
+### 2. How Severity is Determined
+
+Schools don't just "guess" how serious a case is; they use a framework to ensure consistency. The **Governance Coordinator** (you!) ensures these factors are documented:
+
+* **Year of Study:** A first-year student making a referencing error is often "Poor Practice." A final-year student doing the same is "Misconduct." 🎓
+* **The "Intent" vs. "Ignorance" Test:** Did the student try to hide the cheating (e.g., changing every third word to dodge Turnitin)? That shows **intent to deceive**, which is a high-severity marker.
+* **Case History:** Is this a first-time "oops" or the third time they’ve been in your office?
+* **The "Probity" Impact:** Does this act suggest a fundamental character flaw that would make them an unsafe doctor?
+
+---
+
+### 3. How Concerns are Identified
+
+* **Software (Turnitin):** The most common tool. It flags similarities with other papers and AI-generated content.
+* **Vivas (Oral Exams):** If a paper is suspiciously "perfect," a student might be called to explain their work. If they can’t explain their own logic, it’s a red flag. 🚩
+* **Invigilator Reports:** Physical evidence from exam halls (e.g., notes found in a pocket).
+* **Whistleblowing:** Other students reporting "buying" groups or shared answers.
+
+---
+
+### 4. De-escalation: The "Poor Academic Practice" Route
+
+Not every mistake needs a full hearing. "De-escalation" happens when a case is moved from the **Misconduct** track to the **Support** track.
+
+* **When to de-escalate:** Usually for first-time, minor plagiarism or collusion where there is no clear intent to cheat, just a lack of skill.
+* **The Process:** 1.  The **Academic Integrity Lead** meets the student informally.
+2.  The "sanction" is educational: The student might have to attend a referencing workshop.
+3.  The mark is often capped or the plagiarized section ignored, but no permanent "Misconduct" mark goes on their medical record.
+* **Your Role:** You track these "informal" warnings. If the student does it again, you provide the evidence that de-escalation didn't work, justifying a move to a formal panel.
+
+---
+
+### Moving Forward
+
+You mentioned: *"the next thing I want to know is..."* but the message cut off!
+
+**Would you like me to expand on how to draft the minutes for these panels, or perhaps explain the difference between a "Warning" and a "Sanction" in a student's file?**
+
+
+## More academic misconduct
+
+In your role at a medical school (like Hull York Medical School or similar), the **Academic Cases Committee (ACC)** and the **Academic Misconduct Panels** are the formal bodies that uphold the integrity of the medical degree.
+
+Because medical students are "doctors in training," an act of cheating isn't just an academic fail—it's a **professionalism concern**. Here is the structured breakdown of how these investigations and panels function.
+
+---
+
+### 1. The Investigation Procedure: Step-by-Step 🔍
+
+When an allegation of misconduct (like plagiarism or exam cheating) is made, it follows a strict legalistic path to ensure "natural justice" (fairness).
+
+1. **The Allegation & Triage:** A concern is raised (e.g., a high Turnitin score). An **Academic Integrity Lead** or a **Case Management Group** reviews it. If it’s more than a "simple mistake," it moves to a formal investigation.
+2. **Appointment of an Investigating Officer (IO):** A staff member (who has no connection to the student) is appointed to gather facts. They act as a neutral "detective."
+3. **Evidence Gathering:** The IO compiles the **Evidence Bundle**. This includes the student's work, Turnitin reports, witness statements, and the student's previous record.
+4. **The Student Interview:** The IO meets the student. This is not a "hearing"—it is a fact-finding meeting. The student is shown the evidence and asked to explain their side.
+5. **The IO Report:** The IO writes a summary report and recommends one of three things:
+* No case to answer.
+* Minor misconduct (can be handled locally).
+* **Referral to an Academic Misconduct Panel** (for serious/major cases).
+
+
+
+---
+
+### 2. The Academic Misconduct Panel: Who is in the Room? 👥
+
+If a case is referred to a formal panel, the composition is designed to be balanced and objective.
+
+| Role | Typically Filled By | Function |
+| --- | --- | --- |
+| **Chair** | A senior academic (e.g., Head of School). | Leads the hearing and ensures the Code of Practice is followed. |
+| **Panel Member 1** | An academic from a different department. | Provides an objective, non-biased view. |
+| **Panel Member 2** | A Student Representative or Lay Member. | Ensures the "student voice" or "public interest" is represented. |
+| **The Secretary** | **You (Governance Coordinator)!** | Takes minutes, manages the bundle, and gives advice on the "rules." |
+
+---
+
+### 3. Outcomes and Penalties ⚖️
+
+The panel uses the **"Balance of Probabilities"** (is it more likely than not that they cheated?) to reach a verdict.
+
+* **Level 1: Poor Academic Practice:** No intent to deceive. *Penalty:* Mark reduction or a requirement to redo the work for a capped mark.
+* **Level 2: Minor Misconduct:** Intentional but small-scale (e.g., small copied sections). *Penalty:* Zero for the assignment and a formal warning.
+* **Level 3: Major Misconduct:** Serious cheating (e.g., exam notes, commissioning an essay). *Penalty:* Zero for the entire module, suspension for a year, or expulsion from the university.
+
+---
+
+### 4. The Bridge to Fitness to Practise (FtP) 🩺
+
+In a medical school, academic misconduct often triggers a **Fitness to Practise** (FtP) referral. This is because cheating is a breach of **Probity** (honesty).
+
+* **The Referral:** If the panel finds a student intentionally cheated, they will often refer the case to the **FtP Committee**.
+* **The Disciplinary Action:** The FtP Committee doesn't look at the cheating itself (that's already been proven). Instead, they ask: *"Does this cheating mean the student is fundamentally dishonest and therefore unsafe to be a doctor?"*
+* **Professional Impact:** This is where the most severe actions happen. An FtP panel can decide that a student is "unfit to practise" and **expel them permanently from the medical register**, meaning they can never become a doctor in the UK.
+
+---
+
+### 5. De-escalation: Handling "Non-CV" Cases
+
+"Non-CV" (Non-Clinical/Non-Serious) cases are often de-escalated through **Early Resolution**:
+
+* **The "Informal" Meeting:** If a student has made a genuine referencing error, the Chair may choose to meet them informally rather than hold a full panel.
+* **Educational Remediation:** The student is required to attend a workshop on academic integrity.
+* **The Goal:** To correct the behavior before it becomes a professional habit, without "criminalizing" the student's academic record early in their career.
+
+**As you prepare for your first week, would you like me to help you draft a "Notice of Investigation" letter that you might send to a student? It’s a great way to see how the tone of your role shifts between "supportive" and "procedural."**
