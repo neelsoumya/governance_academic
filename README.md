@@ -366,3 +366,91 @@ In a medical school, academic misconduct often triggers a **Fitness to Practise*
 * **The Goal:** To correct the behavior before it becomes a professional habit, without "criminalizing" the student's academic record early in their career.
 
 **As you prepare for your first week, would you like me to help you draft a "Notice of Investigation" letter that you might send to a student? It’s a great way to see how the tone of your role shifts between "supportive" and "procedural."**
+
+## Appeals
+
+Navigating the regulations of UK medical schools can be complex, as they must balance university standards with the professional requirements of the **General Medical Council (GMC)** 🩺.
+
+I’ll outline the core distinctions and rules used in these codes of practice. I'll ask some guiding questions as we go to help you navigate these procedures.
+
+### ⚖️ Appeals vs. Complaints
+
+The primary difference lies in **what** you are challenging: the outcome of a decision or the quality of your experience.
+
+| Feature | **Academic/FTP Appeal** 📝 | **Complaint** 🗣️ |
+| --- | --- | --- |
+| **Focus** | A specific formal decision (e.g., an exam fail or an FTP sanction). | The quality of teaching, facilities, or treatment by staff. |
+| **Goal** | To have a decision overturned or reconsidered. | To receive an apology, a change in service, or compensation. |
+| **Timing** | Usually must be filed within a strict window after the decision (often 10–14 days). | Can often be raised at any point during or shortly after the event. |
+
+---
+
+### ✅ Legitimate Grounds for Appeal
+
+In most UK medical schools, you cannot appeal simply because you are unhappy with a result. You must prove one of the following:
+
+* **Procedural Irregularity:** The school failed to follow its own rules (e.g., a clinical exam wasn't conducted according to the published guidelines) 📏.
+* **Bias or Prejudice:** Evidence that a marker or panel member was not impartial ✋.
+* **New Material Evidence:** You have information (like a medical diagnosis) that affected your performance, but you had a **valid reason** for not disclosing it earlier via the standard "Extenuating Circumstances" route 🏥.
+
+### ❌ Matters Not Constituting Grounds
+
+* **Academic Judgment:** You cannot challenge the professional opinion of the markers. If an examiner decides your clinical skills weren't up to par, a school will not allow an appeal based solely on you thinking you deserved a higher mark 🙅‍♂️.
+* **Disagreement with the Result:** General dissatisfaction without evidence of a procedural flaw.
+
+---
+
+### 🤝 Informal Resolution
+
+Before a case reaches a formal panel, schools encourage **Stage 1: Local/Informal Resolution**.
+
+* **Process:** This usually involves a meeting with the Head of Year or a Dean to discuss the concern.
+* **Purpose:** To clarify misunderstandings. Sometimes, a simple clerical error (like a data entry mistake on a grade) is found, which resolves the issue immediately without a full hearing 🛠️.
+
+To help us focus our discussion, which of these areas would you like to explore further?
+
+1. **The "Academic Judgment" Barrier:** Why this is the most common reason appeals are rejected and how to work around it.
+2. **Fitness to Practise (FTP) Specifics:** How appeals work when the decision involves your professional suitability to be a doctor.
+3. **The External Route (OIA):** What happens if the university rejects your appeal and you want to take it to the national ombudsman.
+
+
+## Appeal hearing
+
+Navigating a medical school appeal can feel like a maze of red tape, but the process is actually highly regulated to ensure fairness and public safety. Because medical students are training for a GMC-regulated profession, the rules are often stricter than for other degrees.
+
+I’ll help you break down these complex procedures. Let's start with a high-level look at the "investigation" phase and the people involved. 🩺
+
+### 1. The Investigation Stage
+
+An investigation usually begins with a **preliminary review** (often called a "sift"). An **Investigative Officer (IO)**—usually a senior faculty member or a caseworker from the University’s Student Progress team—is assigned to the case. Their job is to determine:
+
+* **Grounds:** Does the appeal meet the criteria (e.g., procedural error, new evidence, or bias)?
+* **Evidence:** Is the documentation (medical notes, emails, etc.) authentic and relevant?
+* **The Paper Trail:** They will often "interview" the original decision-makers and the student to see if the internal rules were followed correctly.
+
+### 2. The Appeal Committee: "Who’s Who?"
+
+If the IO decides there is a case to be heard, it moves to an **Appeal Committee**. To ensure impartiality, no one from the original decision-making panel can sit on this committee. A typical medical school committee includes:
+
+* **The Chair:** A senior academic (often a clinical lead from the medical school).
+* **The Clinician:** At least one GMC-registered doctor with a license to practise.
+* **The Lay Member:** A person from outside the medical profession to represent the public interest.
+* **The Student Rep:** Often an elected officer from the Students' Union.
+
+### 3. Powers of the Investigative Officer
+
+The IO holds significant "gatekeeping" power. Their primary decisions are:
+
+* **Reject:** They can dismiss the appeal early if it doesn't meet the legal "grounds" (e.g., if a student is simply "unhappy" with a grade without proof of an error).
+* **Uphold (Informal):** If they find a clear, simple mistake (like a calculation error), they can sometimes resolve the appeal immediately without a hearing.
+* **Refer to Panel:** If the case is complex or requires a deeper look, they refer it to the formal committee.
+
+---
+
+Which part of this process should we dive into first? I've outlined three paths we can take:
+
+1. **The "Day of" Hearing:** We can walk through the exact steps of what happens once everyone is in the room (or on the Zoom call).
+2. **Grounds for Appeal:** We can explore what counts as a valid reason to appeal and what the IO is looking for in your evidence.
+3. **The Outcomes:** We can look at what the committee is actually allowed to do (e.g., can they overturn a fail, or just offer a re-sit?).
+
+
